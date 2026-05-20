@@ -43,7 +43,7 @@ Follow these instructions to get a local copy of the project up and running.
     ```
 
 4.  **Set up environment variables:**
-    Create a file named `.env.local` in the root of the project and add your Google Gemini API key:
+    Create a file named `.env` in the root of the project and add your Google Gemini API key:
     ```
     GEMINI_API_KEY="YOUR_API_KEY_HERE"
     ```
